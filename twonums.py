@@ -1,7 +1,7 @@
 from my_packages import ListNode, toList, createListNode
 
 def addTwoNumbers(l1:ListNode, l2:ListNode)->ListNode:
-    """Add values of two list nodes considering that they are reversed and each node is a digit
+    """Add values of two list nodes considering that they are reversed integers and each node is a digit
 
     Args:
         l1 (ListNode): head of list node 1
